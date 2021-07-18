@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.background {
+  background-color: #ffffff;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  text-align: center;
+  border-radius: 12px;
+  padding: 24px;
+}
+.black-card {
+  background-color: #000000;
+}
+
+.white-card {
+  background-color: #ffffff;
+}
+
+.button {
+  font-size: 16px;
+  border: none;
+  padding: 16px;
+  border-radius: 8px;
+}
